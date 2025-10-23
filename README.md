@@ -12,8 +12,7 @@
 🔹 Comparison of government incentives vs sales impact.
 
 🛠 Tools Used
-**Power BI** – Data Visualization & Insights  
-**Excel / CSV** – Data Cleaning and Preparation  
+**Power BI** – Data Visualization, Insights, Data Cleaning and Preparation  
 **GitHub** – Portfolio Hosting  
 
 🎯 Skills Highlighted
